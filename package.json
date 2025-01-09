@@ -1,0 +1,30 @@
+{
+  "name": "evangadi-forum",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "My name is Abdurahman Mohammed, and I am a full-stack web developer. I learned at Evangadi Tech. If you have any questions, need help, or want to discuss work or learning opportunities related to this project, feel free to reach out to me:",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "http-status-codes": "^2.3.0",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.11.5",
+    "pg": "^8.13.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kewanim/Evangadi-Forum-Server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kewanim/Evangadi-Forum-Server/issues"
+  },
+  "homepage": "https://github.com/kewanim/Evangadi-Forum-Server#readme"
+}
